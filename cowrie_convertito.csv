@@ -1,0 +1,7 @@
+session,eventid,src_ip,input,hour,date,day,month
+7b9ae08041bb,cowrie.login.success,127.0.0.1,root/t,13,2024-06-20,20,6
+7b9ae08041bb,cowrie.command.input,127.0.0.1,wget,13,2024-06-20,20,6
+00d9c94511ca,cowrie.login.success,127.0.0.1,root/t,13,2024-06-20,20,6
+00d9c94511ca,cowrie.command.input,127.0.0.1,chmod,13,2024-06-20,20,6
+85785d82f75c,cowrie.login.success,127.0.0.1,root/t,13,2024-06-20,20,6
+85785d82f75c,cowrie.command.input,127.0.0.1,/,13,2024-06-20,20,6

@@ -1,0 +1,7 @@
+Session,eventid,Commands,src_ip,hour,day,month
+3a5ea718352a,cowrie.login.success,root/t,127.0.0.1,9,2,7
+3a5ea718352a,cowrie.command.input,wget,127.0.0.1,9,2,7
+6b1b8666c24a,cowrie.login.success,root/t,127.0.0.1,9,2,7
+6b1b8666c24a,cowrie.command.input,chmod,127.0.0.1,9,2,7
+0e96209be116,cowrie.login.success,root/t,127.0.0.1,9,2,7
+0e96209be116,cowrie.command.input,/,127.0.0.1,9,2,7

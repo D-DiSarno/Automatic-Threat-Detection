@@ -1,0 +1,19 @@
+
+Session: Unique identifier for each session.
+eventid: Type of event, such as login attempts and command inputs.
+Commands: The commands entered during the session, including login credentials.
+src_ip: Source IP address from which the activity originated.
+hour: Hour of the day when the activity occurred.
+day: Day of the month when the activity occurred.
+month: Month when the activity occurred.
+predicted_tactic: The predicted type of activity by the machine learning model.
+
+Example Entries:
+Session: 08945c00381c
+eventid: cowrie.login.failed (unsuccessful login attempt)
+Commands: root/Zte521 (login attempt with username "root" and password "Zte521")
+src_ip: 113.221.72.105 (originating IP address)
+hour: 7
+day: 12
+month: 1
+predicted_tactic: cowrie.login.failed (model's prediction matches the actual event)
